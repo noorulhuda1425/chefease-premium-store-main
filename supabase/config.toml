@@ -1,0 +1,7 @@
+project_id = "oljwkvufowfefkjnxrpu"
+
+[functions.validate-coupon]
+verify_jwt = false
+
+[functions.create-order]
+verify_jwt = false
